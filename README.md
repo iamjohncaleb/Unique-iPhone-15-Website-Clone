@@ -54,6 +54,8 @@ npm install
 npm run dev
 ```
 
+
+  Visit [Live-site](https://unique-i-phone-15-website-clone.vercel.app/)
 Visit [http://localhost:5173](http://localhost:5173)
 
 
