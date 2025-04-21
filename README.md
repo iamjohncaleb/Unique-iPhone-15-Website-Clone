@@ -1,6 +1,6 @@
 <div align="center">
   <a href="" target="_blank">
-    <img src="https://github.com/iamjohncaleb/200-Days-Of-Code-Challenge/blob/main/Thumbnails/Day%2017.jpg" alt="Project Banner">
+    <img src="https://github.com/iamjohncaleb/Unique-iPhone-15-Website-Clone/blob/main/iphone.jpg" alt="Project Banner">
   </a>
 
   <div>
