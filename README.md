@@ -43,16 +43,15 @@
 Git, Node.js, npm  
 
 **Clone & Install:**  
-```bash
-git clone 
+
+git clone (https://github.com/iamjohncaleb/Unique-iPhone-15-Website-Clone.git)
 cd iphone-doc
 npm install
-```
+
 
 **Run:**  
-```bash
 npm run dev
-```
+
 
 
   Visit [Live-site](https://unique-i-phone-15-website-clone.vercel.app/)
@@ -62,7 +61,7 @@ Visit [http://localhost:5173](http://localhost:5173)
 <details>
 <summary><code>tailwind.config.js</code></summary>
 
-```javascript
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
