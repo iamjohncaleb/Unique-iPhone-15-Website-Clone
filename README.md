@@ -45,11 +45,15 @@ Git, Node.js, npm
 **Clone & Install:**  
 
 git clone (https://github.com/iamjohncaleb/Unique-iPhone-15-Website-Clone.git)
+
+
 cd iphone-doc
+
 npm install
 
 
 **Run:**  
+
 npm run dev
 
 
